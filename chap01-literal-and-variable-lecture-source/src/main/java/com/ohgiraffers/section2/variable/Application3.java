@@ -82,7 +82,7 @@ public class Application3 {
         boolean isAlive = true;
         // boolean isDead = false; 부정형 보다 긍정형이 더 나은 방식이다.
         boolean isTrue = true;
-        
+
 
 
 
