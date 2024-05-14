@@ -4,7 +4,7 @@ public class Application2 {
     public static void main(String[] args) {
 
        /*
-       * 상수의 몀명 규칙
+       * 상수의 명명 규칙
        *
        * 상수의 명명 규칙은 변수의 명명규칙과 컴파일 에러를 발생시키는 규칙은 동일하다.
        *
