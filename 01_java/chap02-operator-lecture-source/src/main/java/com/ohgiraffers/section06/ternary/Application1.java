@@ -1,4 +1,4 @@
-package com.ohgiraffers.section06;
+package com.ohgiraffers.section06.ternary;
 
 public class Application1 {
     public static void main(String[] args) {
