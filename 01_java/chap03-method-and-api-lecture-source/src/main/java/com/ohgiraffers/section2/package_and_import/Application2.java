@@ -14,7 +14,7 @@ public class Application2 {
         서로 다른 패키지에 존재하는 클래스를 사용하는 경우. 패키지명을 포함한 풀 클래스 이름을
         사용해야 하지만 너무 길다.
 
-        그래서 패키지명을 생략하고 사용할 수 있도록 한 궁역이 import 구문이다.
+        그래서 패키지명을 생략하고 사용할 수 있도록 한 구역이 import 구문이다.
      */
         Calculator calc = new Calculator();
         int min = calc.nonStaticMinNumberOf(50, 60);
