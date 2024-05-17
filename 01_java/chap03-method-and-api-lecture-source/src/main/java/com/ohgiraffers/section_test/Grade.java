@@ -5,7 +5,7 @@ public class Grade {
 
         int korea = 95;
         int math =  75;
-        int science = 85;
+        int science = 80;
 
         System.out.println("평균은: " + avg (korea,math,science));
     }
