@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c1b9be-deab-49a1-ba55-03dda42dc68d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/A_If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/B_IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/C_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section_test/Grade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section_test/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section_test/practice.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/main/java/com/ohgiraffers/section_test/star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,22 +50,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.chap04-control-flow-lecture-source [:Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/80420/Desktop/parkhyochan/01_Java/01_java/chap03-method-and-api-lecture-source&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap04-control-flow-lecture-source [:Application.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/80420/Desktop/parkhyochan/01_Java/01_java/practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditonal.Application" />
@@ -112,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715914526687</updated>
       <workItem from="1715914527761" duration="10288000" />
-      <workItem from="1715928156372" duration="3528000" />
+      <workItem from="1715928156372" duration="4651000" />
     </task>
     <servers />
   </component>
