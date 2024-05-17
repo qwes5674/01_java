@@ -17,7 +17,7 @@ public class Application1 {
 
        // System.out.println(num);
 
-        //자료형별 값 일력받기
+        //자료형별 값 입력받기
         /*
         * 문자열 입력 받기
         *
@@ -41,7 +41,7 @@ public class Application1 {
         /*
         * 정수형(long)
         *
-        * nextLong() : 입력받으 값을 long 형으로 반환해대준다
+        * nextLong() : 입력받은 값을 long 형으로 반환해준다
         *
         * */
 
@@ -76,6 +76,9 @@ public class Application1 {
         System.out.println("나는 복습을 잘하고 있다.");
         boolean isTrue = sc.nextBoolean();
         System.out.println("입력하신 논리 값은 " + isTrue + "입니다.");
+
+        // 에러 발생 -> 대입연산자가 버퍼에 남아있어서 오류 발생했음
+        sc.nextLine();
 
         System.out.println("아무 문자나 입력하세요");
         String str = sc.nextLine();
