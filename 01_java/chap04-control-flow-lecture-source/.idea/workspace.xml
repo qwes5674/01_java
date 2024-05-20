@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c1b9be-deab-49a1-ba55-03dda42dc68d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/looping/B_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/looping/C_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/practice/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/practice/practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/practice/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/practice/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/practice/practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/branching/A_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/branching/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/branching/B_continue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/looping/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/looping/Application.java" afterDir="false" />
     </list>
@@ -67,7 +75,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.ohgiraffers.section02.looping.Application">
+  <component name="RunManager" selected="Application.com.ohgiraffers.section02.practice.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.conditonal.Application" />
       <module name="chap04-control-flow-lecture-source.main" />
@@ -107,8 +115,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ohgiraffers.section02.practice.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.practice.Application" />
+      <module name="chap04-control-flow-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section03.branching.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section03.branching.Application" />
+      <module name="chap04-control-flow-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section03.branching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ohgiraffers.section02.practice.Application" />
+        <item itemvalue="Application.com.ohgiraffers.section03.branching.Application" />
         <item itemvalue="Application.com.ohgiraffers.section02.looping.Application" />
         <item itemvalue="Application.com.ohgiraffers.section01.practice.Application" />
         <item itemvalue="Application.Application" />
@@ -133,7 +169,7 @@
       <updated>1715914526687</updated>
       <workItem from="1715914527761" duration="10288000" />
       <workItem from="1715928156372" duration="8455000" />
-      <workItem from="1716165444182" duration="17030000" />
+      <workItem from="1716165444182" duration="26895000" />
     </task>
     <servers />
   </component>
