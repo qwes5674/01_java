@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class C_IfElseIf {
 
     /*
-     [if -esle-if문 표현식]
+     [if -else-if문 표현식]
 
      if[(조건식1)]{
         조건식이1이  true일 때 실행할 명령문
@@ -14,7 +14,7 @@ public class C_IfElseIf {
       } else{
         조건식 1이 false이고, 조건식 2가 false일때 실행할 명령문
       }
-      if-else-if문은 조건식 1의 결과 값이 참(true)이면 if { ]안에 있는 코드를 실애하고,
+      if-else-if문은 조건식 1의 결과 값이 참(true)이면 if { ]안에 있는 코드를 실행하고,
       조건식1이 false이면 조건식 2를 확인하여 참(true)이면 else if { }안에 있는 코드를 실행한다.
       조건식1과 조건식 2가 결과없이 모두 거짓(false)이면 else { }안에 있는 코드를 실행한다.
       */

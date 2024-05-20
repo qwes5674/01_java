@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c1b9be-deab-49a1-ba55-03dda42dc68d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice/src/main/java/com/ohgiraffers/section_test/star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/main/java/com/ohgiraffers/section_test/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/src/main/java/com/ohgiraffers/section_test/elevator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/C_IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/C_IfElseIf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/80420/Desktop/parkhyochan/01_Java/01_java/practice",
+    "last_opened_file_path": "C:/Users/80420/Desktop/parkhyochan/01_Java/01_java/chap03-method-and-api-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,11 +102,27 @@
       <option name="presentableId" value="Default" />
       <updated>1715914526687</updated>
       <workItem from="1715914527761" duration="10288000" />
-      <workItem from="1715928156372" duration="4651000" />
+      <workItem from="1715928156372" duration="8455000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditonal/D_switch.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
