@@ -9,9 +9,9 @@ public class Application {
         //pt2.teststar2();
 
         practice3 pt3 = new practice3();
-        //pt3.testStar3();
+        pt3.testStar3();
 
         practice4 pt4 = new practice4();
-         pt4.testStar4();
+        // pt4.testStar4();
     }
 }
