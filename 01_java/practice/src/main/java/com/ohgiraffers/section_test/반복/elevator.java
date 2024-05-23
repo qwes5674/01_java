@@ -1,4 +1,4 @@
-package com.ohgiraffers.section_test;
+package com.ohgiraffers.section_test.반복;
 
 import java.util.Scanner;
 
