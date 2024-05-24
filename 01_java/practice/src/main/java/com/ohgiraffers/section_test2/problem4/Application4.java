@@ -14,7 +14,7 @@ public class Application4 {
 
         human.setAge(30);
         human.setChildren(3);
-        human.setMarry(true);
+        human.setMarry("결혼");
         human.setGender('남');
         human.setName("James");
 

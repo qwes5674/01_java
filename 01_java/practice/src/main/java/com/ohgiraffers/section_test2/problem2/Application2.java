@@ -12,12 +12,11 @@ public class Application2 {
     public static void main(String[] args) {
         Book book = new Book();
 
-        book.name = "Effective Java";
-        book.writer ="Joshua Bloch";
-        book.page = 416;
-        book.cover = "hardcover";
+        book.setName("Effective Java");
+        book.setWriter("Joshua Bloch");
+        book.setPage(416);
+        book.setCover("하드커버");
 
-        System.out.println("저자는 " + book.writer +"이고, 책 이름은 " + book.name+ "이고,총 페이지는 " + book.page+"이고, 커버는 "
-        + book.cover + "이다.");
+        System.out.println((book.getInfo()));
     }
 }
