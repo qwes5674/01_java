@@ -1,7 +1,7 @@
 package com.ohgiraffers.section03.interfaceimplements;
 
 
-public interface interProduct /* extends java.io.Serializable, java.util.Comparator */ {
+public interface InterProduct /* extends java.io.Serializable, java.util.Comparator */ {
 
     /*
     * 인터페이스가 인터페이스를 상속받을 시에는 extends 키워드를 이용해
@@ -31,7 +31,7 @@ public interface interProduct /* extends java.io.Serializable, java.util.Compara
     /*
     * 인스턴스 안에 작성한 메서드는 묵시적으로 public abstact의 의미를 가진다. (다른 접근제한자 사용불가)
     *  => 인터페이스의 메소드를 오버라이딩 하는 경우
-    * 반드시 접근제한자를 public으로 해야 오버라이딩이 가능하다.
+    * 반드시 접근제한자를 public 으로 해야 오버라이딩이 가능하다.
     * */
 
     /* public abstract */ void abstMethod();
