@@ -13,5 +13,8 @@ public class SuperDice implements Dice{
     @Override
     public int getNumber() {
         return (int) (Math.random() * (max - min +1)+min);
+        // 랜덤숫자 최대 최소 구하기 (Math.random() * (max - min + 1) + min)
+        // 1~10 => int num = (int)(Math.random() * 10) + 1
+
     }
 }
