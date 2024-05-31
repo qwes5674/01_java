@@ -1,4 +1,4 @@
-package com.ohgiraffers.section06.time;
+package com.ohgiraffers.section6.time;
 
 import java.time.*;
 
