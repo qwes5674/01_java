@@ -119,7 +119,7 @@ public class Application1 {
 
         /*
         * ArrayList에는 기본적으로 역순으로 정렬하는 기능이 제공되지 않는다
-        * LinkedList decendingIterator() 메소드를 사용하면
+        * LinkedList descendingIterator() 메소드를 사용하면
         * 내림차순으로 정렬된 Iterator 타입의 목록으로 반화된다.
         * */
 
